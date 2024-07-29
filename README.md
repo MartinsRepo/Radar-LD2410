@@ -1,5 +1,8 @@
 # Radar Sensor HLK-LD2410
 Setup and run cheap ld2410 radar <br />
+## Hardware Platform
+Arduino MEGA 2560
+2 Serial ports needed: 115200 bd and 256000 bd <br /><br />
 ![File not found](ld2410.png) <br />
 
 LD2410C is a high-sensitivity 24GHz human presence status sensing module developed by Hi-
